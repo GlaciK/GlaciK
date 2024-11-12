@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GlaciK
+- 👀 I’m interested in developing my skills as a fullstack developer
+- 🌱 I’m currently learning Go and node.js
+- 📫 Want to contact me? My email is russels3tiawan@gmail.com
